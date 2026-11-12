@@ -154,14 +154,3 @@ There is always room to make the platform better. Some improvements planned for 
 - Better collaboration analytics.
 - AI-powered writing suggestions.
 
-## 🤝 Contributing
-
-Suggestions and improvements are always welcome. Feel free to fork the repository, experiment with the code, and submit a pull request.
-
-## 📄 License
-
-This project is intended for learning and development purposes. Add your preferred open-source license if you decide to publish it.
-
----
-
-**Built with Next.js, Yjs, WebSockets, PostgreSQL, Redis, and Prisma.**
